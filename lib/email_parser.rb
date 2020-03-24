@@ -9,6 +9,6 @@ class EmailAddressParser
   end 
   
   def parse 
-    
+    csv_email.split.collect.
   end 
 end 
