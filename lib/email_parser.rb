@@ -14,5 +14,5 @@ class EmailAddressParser
       returnArr = splitEmail.flatten.uniq
       returnArr 
   end 
-
+end 
 end 
